@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MediaFinal {
-
+	//EXERCÍCIO 5
 	public static void main(String[] args) {
 		double nota1, nota2, nota3, soma, media;
 		Scanner nota = new Scanner(System.in);
