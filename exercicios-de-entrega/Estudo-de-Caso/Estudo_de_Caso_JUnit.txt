@@ -1,0 +1,22 @@
+ESTUDO DE CASO
+
+1 -Como podemos garantir que as alterações feitas não interrompam a funcionalidade anterior em grandes sistemas? 
+Podemos usar o JUnit aplicandos testes individuais para os métodos das classes log out e log in
+
+2 - Como podemos ser rigorosos em um cenário como este? 
+Aplicando os teste de unidade sempre antes de finalizar qualquer mudança
+
+3 - Por que é importante elaborar testes de unidade? 
+Porque avalia de forma individual o comportamento dos componentes
+
+4 - Que situações semelhantes à do miniexercício apresentado na seção de abertura você acredita que enfrentará quando estiver no trabalho? Por quê?
+Sim, porque acredito que faz parte da rotina de desenvolvimento aparecer bugs, soluções.
+
+HABILIDADES COMPORTAMENTAIS E CONEXÕES DE MENTALIDADES 
+1 - Por que a persistência é necessária para resolver a questão?
+Porque vai fazer com que ele não desista de procurar soluções para os problemas enfrentados por ele, e também vai dando força para enfrentar as outras dificuldades maiores que virão
+
+2 - De que forma a proatividade pode ser útil?
+Pode ser útil para que não fique parado esperando alguém ensiná-lo, sendo proativo o dev também vai adquirindo mais conhecimento e confiança.
+
+
